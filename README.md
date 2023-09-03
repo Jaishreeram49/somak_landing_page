@@ -1,2 +1,2 @@
 # somak_landing_page
-codsoft_level_1_landing_page
+https://jaishreeram49.github.io/somak_landing_page/
